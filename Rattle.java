@@ -1,4 +1,6 @@
-
+/*
+Extends Toy to overload assemble in order to output the following text
+*/
 public class Rattle extends Toy{
 	
 	public Rattle() {
